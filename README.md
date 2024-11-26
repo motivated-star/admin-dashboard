@@ -18,11 +18,6 @@ To get started with this project, follow these steps:
 
 To get started with the Admin Dashboard project, follow these steps:
 
-## Prerequisites
-Ensure you have the following installed:
-
-Node.js (version 16 or later)
-npm or yarn
 
 Clone the repository
 Clone the project repository to your local machine:
@@ -52,3 +47,9 @@ To build the project for production:
 
 npm run build
 
+## Prerequisites
+
+Ensure you have the following installed:
+
+Node.js (version 16 or later)
+npm or yarn
