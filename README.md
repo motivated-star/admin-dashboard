@@ -18,7 +18,6 @@ To get started with this project, follow these steps:
 
 To get started with the Admin Dashboard project, follow these steps:
 
-
 Clone the repository
 Clone the project repository to your local machine:
 
